@@ -22,7 +22,8 @@ h4{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 15px;
     text-align: center;
-    }
+    background-color:#F5F5F5;    
+}
 .SplitVert
     {
     float: left;
@@ -30,6 +31,7 @@ h4{
     width: 40%;
     width: 30%;
     padding: 0 2%
+    
     }
 
 .SplitOriz
@@ -43,7 +45,11 @@ h4{
 
 .Skills {
     margin-left: 20px;
-    }
+    
+}
+.Skills-color {
+    background-color:#F5F5F5;
+}
 .About{
     font-size: 20px;
 }    
@@ -63,4 +69,9 @@ h4{
     {
     border: 3px solid turquoise;
     border-radius: 5px;
+    background-color:#F0F8FF;
     }
+.name
+{
+    background-color:#6495ED;
+}
